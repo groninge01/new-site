@@ -6,7 +6,9 @@ const FeatureGrid = ({ gridItems }) => (
     {gridItems.map(item => (
       <div key={item.text} className="column is-6">
         <section className="section">
-          <h2>{item.heading}</h2>
+          <h2
+          className="first-letter"
+          >{item.heading}</h2>
           <p>{item.text}</p>
         </section>
       </div>
