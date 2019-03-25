@@ -5,7 +5,7 @@ image: /img/business-code-coding-270360.jpg
 heading: Great websites for everyone
 subheading: So you can do what you can do best
 mainpitch:
-  title: Why Kaldi
+  title: Why webuildit
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too.
@@ -14,19 +14,15 @@ description: >-
   java’s origin and support the farmers that grew it.
 intro:
   blurbs:
-    - heading: Beautiful
-      text: >
+    - text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives.
-    - heading: Clean
-      text: >
+    - text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level.
-    - heading: Fast
-      text: >
+    - text: |
         Love a great cup of coffee, but never knew how to make one?
-    - heading: Responsive
-      text: >
+    - text: |
         We believe that good coffee has the power to bring people together.
   heading: What we offer
   description: >
