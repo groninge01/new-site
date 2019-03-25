@@ -14,14 +14,18 @@ description: >-
   java’s origin and support the farmers that grew it.
 intro:
   blurbs:
+    - heading: Beautiful
     - text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives.
+    - heading: Clean
     - text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level.
+    - heading: Fast
     - text: |
         Love a great cup of coffee, but never knew how to make one?
+    - heading: Responsive
     - text: |
         We believe that good coffee has the power to bring people together.
   heading: What we offer
