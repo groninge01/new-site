@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Great websites for everyone
-image: /img/business-code-coding-270360.jpg
+image: /img/codes-coding-computer-270366.jpg
 heading: Great websites for everyone
-subheading: So you can do what you can do best
+subheading: So you can do what you do best
 mainpitch:
   title: Why webuildit
   description: >
@@ -24,7 +24,7 @@ intro:
         tools for every taste and experience level.
     - heading: Fast
       text: >
-        Love a great cup of coffee, but never knew how to make one?
+        Love a great cup of coffee, but never knew how to make one? together
     - heading: Responsive
       text: >
         We believe that good coffee has the power to bring people together.
